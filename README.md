@@ -400,8 +400,6 @@ alex@/tmp/sort$
 
 ##
 **Proudly written by:**
-- **[Yosri Ghorbel](https://github.com/YosriGFX)**
-- **[Adib Gruise](https://github.com/s0m35h1t)**
+- **[abdallah fattah](https://github.com/abdallhfattah)**
 ##
 
-> Copyright © 2021 [Holberton School](https://www.holbertonschool.com). All rights reserved.
